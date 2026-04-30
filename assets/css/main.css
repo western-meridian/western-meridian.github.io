@@ -3298,30 +3298,5 @@ input, select, textarea {
 				#header br {
 					display: none;
 				}
-		#header {
-    /* Reduce the massive top/bottom gaps (original is often 8em+) */
-    padding: 3em 2em 2em 2em !important; 
-    
-    /* Stop the header from forcing itself to be tall */
-    min-height: 0 !important; 
-}
-
-#header .logo-wrapper {
-    /* Remove any extra top spacing on the wrapper */
-    padding-top: 0 !important;
-    margin-top: -1em; /* This pulls the logo up slightly higher */
-}
-
-#header h1 {
-    /* Tighten the space between the logo and the "Welcome" text */
-    margin-top: 0.5em;
-}
-
-/* Fix for mobile specifically */
-@media screen and (max-width: 736px) {
-    #header {
-        padding: 2em 1em 1em 1em !important;
-    }
-}
 
 	}
