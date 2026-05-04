@@ -2801,7 +2801,7 @@ input, select, textarea {
 		background-position: top center;
 		background-repeat: repeat-x;
 		background-size: 3200px 460px;
-		color: rgba(255, 255, 255, 0.8);
+		color: rgba(166, 117, 100, 0.8);
 		/*
 				Since the SVG background occupies a lot of vertical space, we'll
 				add additional top padding (to move our content out of its way)
