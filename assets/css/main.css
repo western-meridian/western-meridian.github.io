@@ -2815,7 +2815,7 @@ input, select, textarea {
 	}
 
 		#footer:before {
-			background: rgba(224, 224, 224, 0.75);
+			background: rgba(166, 117, 100, 0.75);
 			content: '';
 			height: calc(460px + 6em);
 			left: 50%;
