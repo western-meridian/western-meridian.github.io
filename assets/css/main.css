@@ -2703,18 +2703,13 @@ input, select, textarea {
 		}
 
 /* Header */
-
 	#header {
-		background-attachment: scroll,							scroll,					fixed;
-		background-color: #854F43;
-		background-image: url("images/top-3200.svg");
-		background-position: bottom center,					top left,				center center;
-		background-repeat: repeat-x,						repeat,					no-repeat;
-		background-size: 3200px 460px,					auto,					cover;
-		color: rgba(255, 255, 255, 0.8);
-		padding: 10em 0 20em 0;
-		position: relative;
-		text-align: center;
+	    background-color: #854F43;
+	    background-image: url("images/top-3200.svg");
+	    background-attachment: scroll;
+	    background-position: bottom center;
+	    background-repeat: repeat-x;
+	    background-size: 3200px 460px;
 	}
 
 		#header:before, #header:after {
